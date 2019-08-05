@@ -6,10 +6,10 @@ It is coded in C and works in collaboration with the Linux operating system and 
 
 <p float="left">
   <p> Original Image (512x512) </p>
-  <img src="https://user-images.githubusercontent.com/43008021/62431068-3049e200-b6f2-11e9-9eae-2bcb24ef34f0.jpg" width="200" hspace="20"/>
+  <img src="https://user-images.githubusercontent.com/43008021/62431068-3049e200-b6f2-11e9-9eae-2bcb24ef34f0.jpg" width="100" hspace="20"/>
   
   <img src="https://user-images.githubusercontent.com/43008021/62431253-dba76680-b6f3-11e9-98b9-e9ed9682b00a.png" width="120" hspace="20"/>
   
   <p> Compressed Image with Grayscale Difference of 4 and Depth of 5 (512x512) </p>
-  <img src="https://user-images.githubusercontent.com/43008021/62431223-7784a280-b6f3-11e9-9969-6d62533f8130.jpg" width="200" hspace="20"/>
+  <img src="https://user-images.githubusercontent.com/43008021/62431223-7784a280-b6f3-11e9-9969-6d62533f8130.jpg" width="100" hspace="20"/>
 </p>
