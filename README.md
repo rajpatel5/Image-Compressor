@@ -4,8 +4,6 @@ This assignment was assigned to by the B09(Software Tools and Systems Programmin
 
 It is coded in C and works in collaboration with the Linux operating system and it's terminal. This assignment uses quad trees to split the input image into four sections based on the given maximum grayscale difference and max depth; it is implemented with recursion hence the depth input variable. It also perfectly works with memory to ensure no memory leaks, tested using valgrind on the Linux terminal.
 
-<p></p>
-
 <p align="center" float="left">
   <img src="https://user-images.githubusercontent.com/43008021/62431068-3049e200-b6f2-11e9-9eae-2bcb24ef34f0.jpg" width="256" hspace="20"/>
   
